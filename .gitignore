@@ -1,8 +1,20 @@
-.vs/
+# Build results
 bin/
 obj/
+
+# Visual Studio
+.vs/
 *.user
 *.suo
-*.vscode/
+
+# Rider & VS Code
+.idea/
+.vscode/
+
+# User-specific
 *.dbmdl
 *.log
+
+# ASP.NET Secrets & Settings
+appsettings.Development.json
+*.env
